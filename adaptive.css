@@ -204,6 +204,7 @@
 
   .about__side {
     max-height: 328px;
+    position: relative;
   }
 
   .about__image {
@@ -263,6 +264,7 @@
   .about__side {
     max-height: 210px;
     padding-top: 24px;
+    position: relative;
   }
   .offer__left-side {
     padding: 40px 24px;
